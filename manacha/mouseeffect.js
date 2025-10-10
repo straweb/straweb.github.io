@@ -944,37 +944,39 @@ const initFluid = () => {
     clickSplat(pointer);
   });
 
-  $('body').one('mousemove', e => {
-    let pointer = pointers[0];
-    let posX = scaleByPixelRatio(e.clientX);
-    let posY = scaleByPixelRatio(e.clientY);
-    let color = generateColor();
-    update();
-    updatePointerMoveData(pointer, posX, posY, color);
-  });
+//   $('body').one('mousemove', e => {
+//     let pointer = pointers[0];
+//     let posX = scaleByPixelRatio(e.clientX);
+//     let posY = scaleByPixelRatio(e.clientY);
+//     let color = generateColor();
+//     update();
+//     updatePointerMoveData(pointer, posX, posY, color);
+//   });
 
   window.addEventListener('mousemove', e => {
     let pointer = pointers[0];
     let posX = scaleByPixelRatio(e.clientX);
     let posY = scaleByPixelRatio(e.clientY);
     let color = pointer.color;
+    update();
     updatePointerMoveData(pointer, posX, posY, color);
   });
 
-  $('body').one('touchstart', e => {
-    const touches = e.targetTouches;
-    let touch = touches[0];
-    let pointer = pointers[0];
-    for (let i = 0; i < touches.length; i++) {
-      let posX = scaleByPixelRatio(touches[i].clientX);
-      let posY = scaleByPixelRatio(touches[i].clientY);
-      update();
-      updatePointerDownData(pointer, touches[i].identifier, posX, posY);
-    }
-  });
+//   $('body').one('touchstart', e => {
+//     const touches = e.targetTouches;
+//     let touch = touches[0];
+//     let pointer = pointers[0];
+//     for (let i = 0; i < touches.length; i++) {
+//       let posX = scaleByPixelRatio(touches[i].clientX);
+//       let posY = scaleByPixelRatio(touches[i].clientY);
+//       update();
+//       updatePointerDownData(pointer, touches[i].identifier, posX, posY);
+//     }
+//   });
 
   window.addEventListener('touchstart', e => {
     const touches = e.targetTouches;
+    let touch = touches[0];
     let pointer = pointers[0];
     for (let i = 0; i < touches.length; i++) {
       let posX = scaleByPixelRatio(touches[i].clientX);
