@@ -5,15 +5,29 @@
     <description>StraWeb Services</description>
     <link>https://straweb.github.io</link>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Nov 2025 13:03:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Nov 2025 09:13:31 GMT</lastBuildDate>
     <atom:link href="https://straweb.github.io/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title><![CDATA[The Synergy of AI and Modern Web Development]]></title>
-      <description><![CDATA[Exploring how AI tools are reshaping the landscape of web development...]]></description>
-      <link>https://straweb.github.io/blog/my-first-post</link>
-      <guid isPermaLink="true">https://straweb.github.io/blog/my-first-post</guid>
+      <title><![CDATA[Artificial intelligence tools are propelling rapid growth in upscale companies]]></title>
+      <description><![CDATA[Artificial intelligence tools are propelling rapid growth in upscale companies by streamlining operations, enhancing productivity, and enabling deeper customer engagement across markets...]]></description>
+      <link>https://straweb.github.io/blog/ai-tools-upscale-companies</link>
+      <guid isPermaLink="true">https://straweb.github.io/blog/ai-tools-upscale-companies</guid>
       <pubDate>Fri, 27 Oct 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Flutter application development enables businesses to create beautiful, high-performance apps for multiple platforms using a single codebase]]></title>
+      <description><![CDATA[Flutter application development enables businesses to create beautiful, high-performance apps for multiple platforms using a single codebase, streamlining deployment and maintenance across iOS, Android, web, and desktop environments...]]></description>
+      <link>https://straweb.github.io/blog/flutter-app-usage</link>
+      <guid isPermaLink="true">https://straweb.github.io/blog/flutter-app-usage</guid>
+      <pubDate>Sun, 27 Aug 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Full stack development using react with next.js and node.js]]></title>
+      <description><![CDATA[React with Next.js and Node.js full stack development empowers businesses to build scalable, robust, and high-performance web applications, merging modern frontend interactivity with powerful backend capabilities...]]></description>
+      <link>https://straweb.github.io/blog/react-next-node-development</link>
+      <guid isPermaLink="true">https://straweb.github.io/blog/react-next-node-development</guid>
+      <pubDate>Wed, 15 May 2019 18:30:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
