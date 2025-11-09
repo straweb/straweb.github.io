@@ -5,9 +5,30 @@
     <description>StraWeb Services</description>
     <link>https://straweb.github.io</link>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Nov 2025 09:13:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Nov 2025 22:24:13 GMT</lastBuildDate>
     <atom:link href="https://straweb.github.io/rss.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title><![CDATA[100+ Best Free AI Tools to Supercharge Your Business & Daily Life in 2024]]></title>
+      <description><![CDATA[A curated, categorized list of over 100 incredible free AI tools for marketing, content creation, design, productivity, and more. Upscale your business and streamline your daily workflow with AI.]]></description>
+      <link>https://straweb.github.io/blog/100-best-ai-tools-hard-coded</link>
+      <guid isPermaLink="true">https://straweb.github.io/blog/100-best-ai-tools-hard-coded</guid>
+      <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[100+ Best Free AI Tools to Supercharge Your Business & Daily Life]]></title>
+      <description><![CDATA[A curated, categorized list of over 100 incredible free AI tools for marketing, content creation, design, productivity, and more. Upscale your business and streamline your daily workflow with AI.]]></description>
+      <link>https://straweb.github.io/blog/best-100-free-ai-tools</link>
+      <guid isPermaLink="true">https://straweb.github.io/blog/best-100-free-ai-tools</guid>
+      <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[100+ Best Free AI Tools to Supercharge Your Business & Daily Life]]></title>
+      <description><![CDATA[A curated, categorized list of over 100 incredible free AI tools for marketing, content creation, design, productivity, and more. Upscale your business and streamline your daily workflow with AI.]]></description>
+      <link>https://straweb.github.io/blog/best-ai-tools</link>
+      <guid isPermaLink="true">https://straweb.github.io/blog/best-ai-tools</guid>
+      <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Artificial intelligence tools are propelling rapid growth in upscale companies]]></title>
       <description><![CDATA[Artificial intelligence tools are propelling rapid growth in upscale companies by streamlining operations, enhancing productivity, and enabling deeper customer engagement across markets...]]></description>
@@ -20,6 +41,13 @@
       <description><![CDATA[Flutter application development enables businesses to create beautiful, high-performance apps for multiple platforms using a single codebase, streamlining deployment and maintenance across iOS, Android, web, and desktop environments...]]></description>
       <link>https://straweb.github.io/blog/flutter-app-usage</link>
       <guid isPermaLink="true">https://straweb.github.io/blog/flutter-app-usage</guid>
+      <pubDate>Sun, 27 Aug 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Mastering n8n - Building Powerful Workflows with the Frameworks Library]]></title>
+      <description><![CDATA[Imagine streamlining your daily tasks without writing lines of code. Workflow automation does just that. It links apps and services to run processes on autopilot. Tools like n8n make this easy. As businesses face more data and integrations, low-code platforms rise in demand. n8n stands out as an open-source automation tool you can host yourself. This gives full control over your data. In this article, we explore n8n workflow automation deeply. We focus on its core setup and the frameworks library that powers advanced node creation. You'll learn how this library helps build custom workflows that scale...]]></description>
+      <link>https://straweb.github.io/blog/n8n-usage-workflows</link>
+      <guid isPermaLink="true">https://straweb.github.io/blog/n8n-usage-workflows</guid>
       <pubDate>Sun, 27 Aug 2023 00:00:00 GMT</pubDate>
     </item>
     <item>
